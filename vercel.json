@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/Bubby/(.*)",
+        "destination": "/$1"
+      }
+    ]
+  }
+  
